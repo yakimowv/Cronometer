@@ -1,0 +1,71 @@
+html{
+    background-color: aqua;
+}
+.cron{
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    width: 300px;
+    background-color: green;
+    border-radius: 5px;
+}
+h1{
+    color: white;
+}
+.btn-start{
+    background-color: lawngreen;
+    color: black;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-start:hover{
+    background-color: black;
+    color: lawngreen;
+}
+
+.btn-stop{
+    color: white;
+    background-color: red;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+
+}
+.btn-stop:hover{
+    color: red;
+    background-color: white;
+}
+.btn-reset{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+}
+.btn-reset:hover{
+    color: blue;
+    background-color: white;
+}
+.btn-add{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 120px;
+    border-radius: 20px;
+    font-size: large;
+    cursor: pointer;
+    margin-left: 800px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.btn-add:hover{
+    background-color: black;
+    color: white;
+    padding: 5px 5px;
+    transform: scale(1.1);
+}
